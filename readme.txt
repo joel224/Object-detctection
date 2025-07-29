@@ -1,1 +1,1 @@
-jupiter note
+jupiter notebook
